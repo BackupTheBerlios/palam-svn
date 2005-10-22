@@ -1,4 +1,13 @@
 Web Based Translation / Translator Management Application
 ---------------------------------------------------------
 
+Features that we must have --
+
+* Web based translation
+	-- Multi team
+	-- Multi language
+	-- Multi products
+* Support for all types of keymaps
+* Way to incorporate daily updates in the POT straight from upstream CVS/SVN
+* 
 
