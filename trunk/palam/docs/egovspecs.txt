@@ -1,1 +1,3 @@
 Draft specs for egov project
+
+Required reading: http://www.egov4dev.org/
