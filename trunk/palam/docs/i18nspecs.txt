@@ -7,7 +7,11 @@ Features that we must have --
 	-- Multi team
 	-- Multi language
 	-- Multi products
+    
 * Support for all types of keymaps
-* Way to incorporate daily updates in the POT straight from upstream CVS/SVN
-* 
+
+* Way to incorporate daily updates in the POT straight from upstream
+  CVS/SVN
+  
+* There should be a way to download tarballs of all PO files
 
