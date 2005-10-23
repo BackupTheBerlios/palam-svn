@@ -47,10 +47,10 @@ web based tool intends to achieve the following --
 * Provide an email interface
 * Shorten the translation <-> review -> commit process
 
-TODO: Fix the text and add some more points [must write around 1k words].
-
-
-#	$Id i18nspecs.txt v 0.01$
-
-
+TODO: Fix the text and add some more points [must write around 1k
+words]. We also need to highlight translator management features, like
+how it will manage multiple teams of translators, do versioning of
+translations, etc. We also need to take a look at the features of
+Rosetta [http://lauchpad.net/rosetta] & Pootle
+[http://pootle.wordforge.org] and see which  of the good features we need.
 
