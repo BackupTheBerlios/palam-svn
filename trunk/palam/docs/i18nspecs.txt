@@ -10,9 +10,15 @@ Features that we must have --
     
 * Support for all types of keymaps
 
+isnt this browser based? as long as the keymaps produce the standard unicode strings, this is irrelevant
+
 * Way to incorporate daily updates in the POT straight from upstream
   CVS/SVN
   
+svn+trac
+  
 * There should be a way to download tarballs of all PO files
+
+please dump the contents of your original mail proposing the project here, and we can work on it
 
 
