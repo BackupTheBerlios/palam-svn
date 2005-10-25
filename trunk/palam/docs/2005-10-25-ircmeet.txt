@@ -1,0 +1,39 @@
+After an IRC meet on Tue Oct 25, 2005 we reached a genral consensus on
+the following features --
+
+* Whether we will write an application or provide a service to the
+  people -- To be decided later
+
+* Statistics -- Must have  
+
+* Online Review -- Must have
+
+* Consistency Checking -- Must have
+
+* Version Control -- A basic form of VC should be there, nothing too
+  ambitious, but there will be a way to mark a PO file to be a part of x
+  version of y app while uploading. The app will in any case treat PO
+  files of different version as separate files. So in a way, the VC will
+  be at a higher level than the app itself
+
+* User Profiles -- Unnecessary
+
+* Management Console -- Not needed as volunteers will be able to take up
+  work via the stats page itself
+
+* Downloads -- A way to filter translations according to language,
+  product, etc. and download tarballs
+
+* Minor Points
+  -- Translated UI
+  -- Extensive Online Documentation
+  -- Email Interface
+  -- Screenshot Gallery (?)
+
+* TODO -- Think of more features to put in  
+
+It was also decided that we will try to hack on the Entrans JavaScript
+code to do the keymaps and integrate with our app. We'll acknowledge
+Entrans as the source of that code.  
+  
+  
