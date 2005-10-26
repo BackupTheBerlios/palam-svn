@@ -36,4 +36,15 @@ It was also decided that we will try to hack on the Entrans JavaScript
 code to do the keymaps and integrate with our app. We'll acknowledge
 Entrans as the source of that code.  
   
-  
+We have to state why we are doing a separate project and not joining an existing one:
+rosetta: not free
+pootle: in python, but no rdbms backend, so will not scale wordforge site itself seems to be broken.
+entrans: i personaly cannot join it as the languages are php and mysql. On the other hand it is an indian project with committed indian developers on it. We are also planning to use some of their javascript code. On the other hand, there is no project description so i dont know what they are planning.
+
+What software are we going to use and why?
+
+django and postgresql which also needs apache and modpython
+
+storage of pot and po files in the rdbms or on the filesystem? django stores files and images on the filesystem with the path to the file in the database (default behaviour)
+
+can we use trac+svn in any manner?
