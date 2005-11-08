@@ -117,6 +117,8 @@ Funding:
 mod_python, postgresql and a few GB of diskspace - $400 per year is the
 going rate.
 
+2. Can we ask for a couple of ibooks?
+
 BG - add some stuff here
 
 Developers:
