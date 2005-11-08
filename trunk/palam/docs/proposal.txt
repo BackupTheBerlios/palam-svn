@@ -77,13 +77,7 @@ will have to accept responsibility for accepting email submissions and the
 translator will have to get the consent of the developer to submit my
 email.
 
-
-
-
-
-
-
-
+other bits left for GNUlinuxer to do:
 
 * Statistics -- Must have  
 
@@ -97,10 +91,7 @@ email.
   files of different version as separate files. So in a way, the VC will
   be at a higher level than the app itself
 
-* User Profiles -- Unnecessary
 
-* Management Console -- Not needed as volunteers will be able to take up
-  work via the stats page itself
 
 * Downloads -- A way to filter translations according to language,
   product, etc. and download tarballs
@@ -112,6 +103,32 @@ email.
   -- Screenshot Gallery (?)
 
 * TODO -- Think of more features to put in  
+
+Schedule:
+
+We will have a server up and running with a basic version of the
+application within a month of starting the project. Working with active
+developers and translators, the application will be fine-tuned over a
+period of 6 months to a year. 
+
+Funding:
+
+1. Hosting space with root access along with subversion, python, apache2,
+mod_python, postgresql and a few GB of diskspace - $400 per year is the
+going rate.
+
+BG - add some stuff here
+
+Developers:
+
+The developers are:
+
+1. BG - resume here
+
+2. Kenneth Gonsalves: An opensource developer. Resume is http://avsap.org.in
+
+Other developers will be welcome to join the project which will iniitally
+be hosted at berlios.de
 
 
 
