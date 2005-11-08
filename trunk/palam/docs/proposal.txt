@@ -47,6 +47,38 @@ applications. Further, python being an easy to master scripting language,
 more non-technical people will be encouraged to hack at and contribute to
 the project.
 
+Workflow:
+
+The Application developer registers an application and uploads the POT file.
+He also gives the file version. The application will treat each version of the
+PO file as a different file. The developer may opt for automatic
+translation, in which case all the strings available in the database will
+be translated into all the languages available and saved as drafts.
+Similarly, any translation by a non authorised translator will also be
+saved as drafts as and when they are done. The developer, and anyone
+authorised by him can approve of drafts, wholly or partially and merge them
+into the official version. This official version will be presented to all
+translators who wish to translate the file wholly or partially.
+
+All translations of strings in all official versions will be added to the
+database. In case of more than one translation of a string into a given
+lanuguage, all translations will be added and it is left to individual
+developers to choose the one they want.
+
+There will be a facility for experts in particular languages to review the
+database and cull out obviously incorrect translations, correct spellings,
+mark any one translation as 'preferred' and remove almost identical duplic
+ates. 
+
+Translators will be able to use the online interface as well as upload
+translations made offline. Submitting translations by email will also be
+catered to, but this will not have an automatic interface. The developer
+will have to accept responsibility for accepting email submissions and the
+translator will have to get the consent of the developer to submit my
+email.
+
+
+
 
 
 
