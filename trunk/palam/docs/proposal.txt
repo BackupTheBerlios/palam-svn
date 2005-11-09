@@ -151,22 +151,25 @@ period of 6 months to a year.
 Proposed Roadmap:
 
 01 Month:
-   * A working model should be ready.
+   * Database structure and translation user interface - basic functionality
+   * One language
+   * Beta 1 release
 
 03 Months:
-   * The first Beta release.
+   * Complete admin and user interface added
+   * Any number of languages
 
 06 Months:
-   * The most important features would be integrated into the app.
+   * Handling of diffs, statistics, reports - complete functionality
    * Beta 2 release.
 
 08 Months:
-   * More Features.
+   * Addition of email interface and interface for translation of documents
    * Bug fixes and UI translations into at least 3 languages.
    * First Release Candidate release.
 
 10 Months:
-   * More features and bug fixes.
+   * Factoring
    * More UI Translations and documentation.
    * Second Release Candidate release.
 
@@ -181,16 +184,11 @@ Proposed Roadmap:
    * Clearing up Docs & UI translations.
    * First stable release.
 
-Possible benefits & downfalls:
-Pros:
-  * blah blah
-  * foo
+The timeline is dependent on the amount of response we get from testers and
+and translators - features will be added and modified in response to the
+feedback.
 
-Cons:
-  * blah blah
-  * foo
 
-Lawgon -- add some masala here  
   
 Funding:
 
