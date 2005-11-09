@@ -23,7 +23,7 @@ The application should, at a later stage cater to translation of
 documentation - which has to be served to the translator para or section
 wise unlike translation of source which is served string by string.
 
-It goes without saying that the application will be free software,
+It goes without saying that the application should be free software,
 multiplatform and multilingual. It is also clear that any such
 application has to be web based.
 
@@ -148,13 +148,58 @@ application within a month of starting the project. Working with active
 developers and translators, the application will be fine-tuned over a
 period of 6 months to a year.
 
+Proposed Roadmap:
+
+01 Month:
+   * A working model should be ready.
+
+03 Months:
+   * The first Beta release.
+
+06 Months:
+   * The most important features would be integrated into the app.
+   * Beta 2 release.
+
+08 Months:
+   * More Features.
+   * Bug fixes and UI translations into at least 3 languages.
+   * First Release Candidate release.
+
+10 Months:
+   * More features and bug fixes.
+   * More UI Translations and documentation.
+   * Second Release Candidate release.
+
+11 Months:
+   * Feature freeze.
+   * Big fixes, UI translations.
+   * More documentation.
+   * Third Release Candidate release.
+
+12 Months:
+   * More bug fixing.
+   * Clearing up Docs & UI translations.
+   * First stable release.
+
+Possible benefits & downfalls:
+Pros:
+  * blah blah
+  * foo
+
+Cons:
+  * blah blah
+  * foo
+
+Lawgon -- add some masala here  
+  
 Funding:
 
 1. We'll initially require 6 months funding to create the application
    with the most important features. Preferably we'd like to receive an
    additional 6 months of funding to incorporate more advanced features
    like machine translation and other nifty things as well as doing a
-   lot of bug fixing and writing test cases, etc.
+   lot of bug fixing, achieve full UI translations and writing test
+   cases, etc.
    
 2. Hosting space with root access along with Subversion, Python, Apache
    mod_python, PostgreSQL and a few GB of diskspace - $400 per year is
@@ -172,13 +217,9 @@ The developers are:
    working committee.
    Email - b.ghose@gnu.org.in
 
-2. Kenneth Gonsalves: A Free & Open source Developer. Resume is
+2. Kenneth Gonsalves: An Free & Open source Developer. Resume is
    http://avsap.org.in
    Email - lawgon@thenilgiris.com
 
-Other developers will be welcome to join the project which will iniitally
+Other developers will be welcome to join the project which will initially
 be hosted at berlios.de
-
-
-
-
