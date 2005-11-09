@@ -150,15 +150,15 @@ period of 6 months to a year.
 
 Funding:
 
-1. Hosting space with root access along with Subversion, Python, Apache
-   mod_python, PostgreSQL and a few GB of diskspace - $400 per year is
-   the going rate.
-
-2. We'll initially require 6 months funding to create the application
+1. We'll initially require 6 months funding to create the application
    with the most important features. Preferably we'd like to receive an
    additional 6 months of funding to incorporate more advanced features
    like machine translation and other nifty things as well as doing a
    lot of bug fixing and writing test cases, etc.
+   
+2. Hosting space with root access along with Subversion, Python, Apache
+   mod_python, PostgreSQL and a few GB of diskspace - $400 per year is
+   the going rate.   
 
 Developers:
 
