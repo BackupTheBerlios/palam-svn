@@ -23,7 +23,7 @@ The application should, at a later stage cater to translation of
 documentation - which has to be served to the translator para or section
 wise unlike translation of source which is served string by string.
 
-It goes without saying that the application should be free software,
+It goes without saying that the application will be free software,
 multiplatform and multilingual. It is also clear that any such
 application has to be web based.
 
@@ -172,7 +172,7 @@ The developers are:
    working committee.
    Email - b.ghose@gnu.org.in
 
-2. Kenneth Gonsalves: An Free & Open source Developer. Resume is
+2. Kenneth Gonsalves: A Free & Open source Developer. Resume is
    http://avsap.org.in
    Email - lawgon@thenilgiris.com
 
